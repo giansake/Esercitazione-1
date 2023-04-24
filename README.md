@@ -52,3 +52,8 @@ left: 0;
 display: flex;
 flex-direction: column;
 ```
+
+```css
+box-shadow: ...;
+border-radius: ...;
+```
