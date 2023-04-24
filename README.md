@@ -2,6 +2,8 @@
 
 Partendo dal file `index.html` in `./problem/index.html` modificate il file di stile nella stessa cartella per replicare il layout della carta numero 2 in `assets/mock-up.pdf`.
 
+![Esercitazione 1 - prima e dopo](./assets/prima:dopo.gif "Prima e dopo")
+
 **Non è necessario modificare la struttura HTML**, in questa esercitazione concentratevi sul CSS.:
 
 ### Obiettivi
