@@ -1,6 +1,6 @@
 ## Esercitazione 1 - E-commerce card layout
 
-Partendo dal file `index.html` in `./problem/index.html` modificate il file `./problem/style.css` per replicate il layout del file `mock-up.pdf` in `assets/mock-up.pdf`.
+Partendo dal file `index.html` in `./problem/index.html` modificate il file di stile nella stessa cartella per replicare il layout della carta numero 2 in `assets/mock-up.pdf`.
 
 **Non è necessario modificare la struttura HTML**, in questa esercitazione concentratevi sul CSS.:
 
@@ -8,11 +8,14 @@ Partendo dal file `index.html` in `./problem/index.html` modificate il file `./p
 
 1. Posizionare il badge giallo affinchè sia in sovrapposizione all'immagine della carta.
 
-2. Centrare il testo segnaposto della carta
+2. Centrare verticalmente il testo segnaposto della carta
 
 ---
 
 #### Tips
+
+Analizzate la struttura HTML prima di iniziare a scrivere il CSS.
+Procedete per step, non cercate di fare tutto in una volta.
 
 ```css
 position: relative;
