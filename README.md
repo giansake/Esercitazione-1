@@ -19,7 +19,7 @@ Partendo dal file `index.html` in `./problem/index.html` modificate il file di s
 
 ![Esercitazione 1 - bonus grid](./assets/grid-mock-up.png "Grid layout")
 
-1. Aggiungere una sezione di intestazione, con titolo e call to action (bottone)
+3. Aggiungere una sezione di intestazione, con titolo e call to action (bottone)
 
 ---
 
