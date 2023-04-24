@@ -4,13 +4,11 @@ Partendo dal file `index.html` in `./problem/index.html` modificate il file `./p
 
 **Non è necessario modificare la struttura HTML**, in questa esercitazione concentratevi sul CSS.:
 
-### Esercizio 1.1
+### Obiettivi
 
-Posizionare il badge giallo affinchè sia in sovrapposizione all'immagine della carta.
+1. Posizionare il badge giallo affinchè sia in sovrapposizione all'immagine della carta.
 
-### Esercizio 1.2
-
-Centrare il testo segnaposto della carta
+2. Centrare il testo segnaposto della carta
 
 ---
 
