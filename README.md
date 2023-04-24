@@ -35,6 +35,15 @@ position: absolute;
 ```
 
 ```css
+object-fit: cover;
+
+background: url(...);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+```
+
+```css
 top: 0;
 left: 0;
 ```
