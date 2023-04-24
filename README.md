@@ -17,6 +17,10 @@ Partendo dal file `index.html` in `./problem/index.html` modificate il file di s
 1. Replicare le carte e costruire una griglia di _prodotti_
 2. Cambiare foto e lunghezze dei testi per rendere le carte diverse tra loro e verificare la solidità del CSS scritto.
 
+![Esercitazione 1 - bonus grid](./assets/grid-mock-up.png "Grid layout")
+
+1. Aggiungere una sezione di intestazione, con titolo e call to action (bottone)
+
 ---
 
 #### Tips
