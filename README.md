@@ -12,6 +12,11 @@ Partendo dal file `index.html` in `./problem/index.html` modificate il file di s
 
 2. Centrare verticalmente il testo segnaposto della carta
 
+#### Obiettivi bonus
+
+1. Replicare le carte e costruire una griglia di _prodotti_
+2. Cambiare foto e lunghezze dei testi per rendere le carte diverse tra loro e verificare la solidità del CSS scritto.
+
 ---
 
 #### Tips
